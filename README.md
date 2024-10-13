@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/eduardo-melo-dos-santos-21816531a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo"  />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=554199851-3653" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5541998513653" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="44" height="32" alt="whatsapp logo"  />
   </a>
   <a href="https://www.instagram.com/edu4rdo_melo20s/" target="_blank">
