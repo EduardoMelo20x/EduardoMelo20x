@@ -23,12 +23,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/EduardoMelo20x/EduardoMelo20x/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/eduardo-melo-dos-santos-21816531a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo"  />
